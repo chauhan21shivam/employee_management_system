@@ -9,7 +9,10 @@ This project is an **Employee Management System** built using Java and JDBC tech
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Database Schema](#database-schema)
+- [Class Structire](#Class-Structure)
+- [Project Structure](#Project-Structure)
 - [Author](#author)
+
 
 ## Features
 
