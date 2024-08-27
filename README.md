@@ -40,7 +40,7 @@ This project is an **Employee Management System** built using Java and JDBC tech
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/employee_management_system.git
+   git clone https://github.com/Shivamchauhan21/employee_management_system.git
 
 2. **Configure the Database:**
 
